@@ -1,0 +1,19 @@
+.main{
+    display: inline-block;
+    border: 2PX SOLID black;
+}
+ .a{
+    height: 100px;
+    width: 500px;
+    background-color:#58b673 ;
+ }
+ .b{
+    height: 100px;
+    width: 500px;
+    background-color: #ffffff;
+ }
+.c{
+    height: 100px;
+    width: 500px;
+    background-color:#7cb0df ;
+}
